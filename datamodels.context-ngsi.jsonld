@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/data-models#",
+        "schema": "https://schema.org/",
+        "Container": "fiware:Container",
+        "Factory": "fiware:Factory",
+        "Sector": "fiware:Sector",
+        "active": "fiware:active",
+        "container_code": "fiware:container_code",
+        "container_volume": "fiware:container_volume",
+        "coordinates": "fiware:coordinates",
+        "factoryId": "fiware:factoryId",
+        "location": "fiware:location",
+        "name": "fiware:name",
+        "object": "fiware:object",
+        "sectorId": "fiware:sectorId",
+        "value": "fiware:value"
+    }
+}
