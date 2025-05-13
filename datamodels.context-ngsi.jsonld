@@ -62,8 +62,8 @@
     "value": "fiware:value",
 
     "refRawMaterials": {
-      "@id": "https://example.org/ontology/refRawMaterials",
-      "@type": "@id"
-    }
+  "@id": "https://uri.fiware.org/ns/data-models#refRawMaterials",
+  "@type": "@id"
+}
   }
 }
